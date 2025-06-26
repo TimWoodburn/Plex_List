@@ -46,13 +46,13 @@
 
 ```bash
 git clone https://github.com/TimWoodburn/Plex_List.git
-cd PlexList
+cd Plex_List
 ```
 Now rename the .env.example to .env and edit the file to include the URL and port of your plex server along with the API key for your Plex server.  You should only have to do this once.
 
-'''
+```bash
 docker-compose up --build
-'''
+```
 
 
 
