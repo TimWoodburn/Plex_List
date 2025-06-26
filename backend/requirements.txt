@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+flask_cors
+python-dotenv
+plexapi
