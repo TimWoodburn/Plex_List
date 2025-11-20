@@ -51,7 +51,7 @@ cd Plex_List
 Now rename the .env.example to .env and edit the file to include the URL and port of your plex server along with the API key for your Plex server.  You should only have to do this once.
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 
@@ -109,6 +109,6 @@ PlexList/
 
 ## Maintainer
 
-Built by Tim for personal media collection tracking via Plex.
+Built by Tim for Plex personal media collections.
 
 ---
