@@ -58,7 +58,7 @@ docker compose up --build
 
 ### 2. Frontend URL
 
-Visit: [http://localhost:5000](http://localhost:3000)
+Visit: [http://localhost:3000](http://localhost:3000)
 
 Or wherever your Docker contaier is executing. The supplied docker-compose.yml file set to port 5000.
 ---
