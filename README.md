@@ -60,7 +60,7 @@ docker compose up --build
 
 Visit: [http://localhost:3000](http://localhost:3000)
 
-Or wherever your Docker contaier is executing. The supplied docker-compose.yml file set to port 5000.
+Or wherever your Docker contaier is executing. The supplied docker-compose.yml file set to port 3000.
 ---
 
 
